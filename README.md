@@ -1,5 +1,12 @@
 # Spotify-Dashboard
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=flat)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-green?style=flat)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-Portfolio_Project-orange?style=flat)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+
 # 🎧 Spotify Streaming Analytics – Power BI Dashboard
 
 ## 1. Project Overview
